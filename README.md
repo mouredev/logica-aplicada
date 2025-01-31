@@ -7,6 +7,12 @@
 #### [https://retosdeprogramacion.com/logica-aplicada](https://retosdeprogramacion.com/logica-aplicada)
 [![Retos programación web](https://img.shields.io/github/stars/mouredev/retos-programacion-web?label=Web%20Retos%20Programación&style=social)](https://github.com/mouredev/retos-programacion-web)
 
+## Presentación de la actividad
+
+### Lunes 3 de febrero en directo desde [Twitch](https://twitch.tv/mouredev) y [YouTube](https://youtube.com/@mouredevtv)
+### Horario: 20:00h (España)
+### Consulta el horario en tu país y crear un recordatorio desde el [evento de Discord](https://discord.gg/D2f22Uaf?event=1334846523179139125)
+
 ## Proyectos
 
 Próximamente...
