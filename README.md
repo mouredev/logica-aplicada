@@ -9,7 +9,7 @@
 
 ## Presentación de la actividad
 
-### Lunes 3 de febrero en directo desde [Twitch](https://twitch.tv/mouredev) y [YouTube](https://youtube.com/@mouredevtv)
+### Lunes 3 de febrero en directo desde [Twitch](https://twitch.tv/mouredev) y [YouTube](https://youtube.com/@mouredev)
 ### Horario: 20:00h (España)
 ### Consulta el horario en tu país y crear un recordatorio desde el [evento de Discord](https://discord.gg/D2f22Uaf?event=1334846523179139125)
 
