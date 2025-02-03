@@ -7,21 +7,20 @@
 #### [https://retosdeprogramacion.com/logica-aplicada](https://retosdeprogramacion.com/logica-aplicada)
 [![Retos programación web](https://img.shields.io/github/stars/mouredev/retos-programacion-web?label=Web%20Retos%20Programación&style=social)](https://github.com/mouredev/retos-programacion-web)
 
-## Presentación de la actividad
-
-### Lunes 3 de febrero en directo desde [Twitch](https://twitch.tv/mouredev) y [YouTube](https://youtube.com/@mouredev)
-### Horario: 20:00h (España)
-### Consulta el horario en tu país y crear un recordatorio desde el [evento de Discord](https://discord.gg/D2f22Uaf?event=1334846523179139125)
-
 ## Proyectos
 
-Próximamente...
+| # | Proyecto | Fecha | Código | Vídeo | Comunidad |
+|---|----------|-------|--------|-------|-----------|
+| 1 | **PASARELA DE PAGO CON STRIPE**: Procesa pagos por internet con tarjeta de crédito en más de 135 divisas. | [10/02/2025](https://discord.gg/G762zpv3MX?event=1336026977265651732) | - | - | - |
 
 ## Información importante
 
-Próximamente...
+* El directo donde se implementará el proyecto (indicado en la fecha) se realizará desde [Twitch](https://twitch.tv/mouredev) y mi [canal principal de YouTube](https://youtube.com/@mouredev).
+* La fecha y horario de cada nuevo proyecto en directo se publicará en la [web principal](https://retosdeprogramacion.com/logica-aplicada) y la sección de "eventos" en [Discord](https://discord.gg/mouredev).
+* Una vez finalizado el proyecto se subirá el código a este repositorio y se publicará un vídeo con la clase en [mi canal secundario de YouTube](https://youtube.com/@mouredev).
+* La comunidad podrá enviar sus proyectos utilizando el lenguaje y la tecnología que quiera una vez se realice la corrección principal (revisa la sección de "instrucciones para participar").
 
-## Instrucciones
+## Instrucciones para participar
 
 Próximamente...
 
@@ -63,5 +62,5 @@ Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrolland
 Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
+[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://mouredev.pro)
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
