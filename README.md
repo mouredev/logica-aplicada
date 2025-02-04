@@ -17,7 +17,7 @@
 
 * El directo donde se implementará el proyecto (indicado en la fecha) se realizará desde [Twitch](https://twitch.tv/mouredev) y mi [canal principal de YouTube](https://youtube.com/@mouredev).
 * La fecha y horario de cada nuevo proyecto en directo se publicará en la [web principal](https://retosdeprogramacion.com/logica-aplicada) y la sección de "eventos" en [Discord](https://discord.gg/mouredev).
-* Una vez finalizado el proyecto se subirá el código a este repositorio y se publicará un vídeo con la clase en [mi canal secundario de YouTube](https://youtube.com/@mouredev).
+* Una vez finalizado el proyecto se subirá el código a este repositorio y se publicará un vídeo con la clase en [mi canal secundario de YouTube](https://youtube.com/@mouredevtv).
 * La comunidad podrá enviar sus proyectos utilizando el lenguaje y la tecnología que quiera una vez se realice la corrección principal (revisa la sección de "instrucciones para participar").
 
 ## Instrucciones para participar
