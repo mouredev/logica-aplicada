@@ -11,7 +11,8 @@
 
 | # | Proyecto | Fecha | Código | Vídeo | Comunidad |
 |---|----------|-------|--------|-------|-----------|
-| 1 | **PASARELA DE PAGO CON STRIPE**: Procesa pagos por internet con tarjeta de crédito en más de 135 divisas. | [10/02/2025](https://discord.gg/G762zpv3MX?event=1336026977265651732) | - | - | - |
+| 1 | **PASARELA DE PAGO CON STRIPE**: Procesa pagos por internet con tarjeta de crédito en más de 135 divisas. | 10/02/2025 | [💻](./Proyectos/01%20-%20Pasarela%20de%20pago%20con%20Stripe) | [▶️](https://youtu.be/gOWCCkUq2nc) | [👥](./Proyectos/01%20-%20Pasarela%20de%20pago%20con%20Stripe/README.md) |
+| 2 | Próximamente...
 
 ## Información importante
 
@@ -22,11 +23,27 @@
 
 ## Instrucciones para participar
 
-Próximamente...
+* Haz un "fork" del repositorio principal.
+* Envía una "pull request" editando el README.md del proyecto en el que estás paticipando. Añade la siguiente información (hay un ejemplo en cada README asociado a un proyecto):
+	* Nombre del lenguaje de programación principal utilizado.
+	* Tu nombre de usuario.
+	* Enlace al repositorio de tu corrección.
+* La corrección del ejercicio debe estar en un repositorio propio del usuario.
+* El repositorio principal de los proyectos de lógica aplicada sólo contendrán las correcciones aportadas por MoureDev y los enlaces a las correcciones de la comunidad (nunca el código de ellas).
 
 ## Guía rápida Git y GitHub
 
-Próximamente...
+1. Realiza un [FORK](https://github.com/mouredev/logica-aplicada/fork) del repositorio de retos desde GitHub.
+2. CLONA ese repositorio a tu máquina local `git clone [TU-REPOSITORIO]`.
+3. (Opcional) Crea una RAMA para la solución y desplázate a ella `git checkout -b [EL-NOMBRE-DE-TU-RAMA]`.
+4. Modifica el README del proyecto donde quieres participar añadiendo la información indicada en las instrucciones
+5. Añáde el README modificado al STAGE `git add [FICHERO-DE-TU-RETO]`.
+5. Haz COMMIT con el mensaje de la solución `git commit -m "#[NÚMERO-RETO] - [LENGUAJE-UTILIZADO]"`.
+6. Haz PUSH `git push [EL-NOMBRE-DE-TU-RAMA]` (puede ser la "main" o la que creaste en el paso 3)
+7. En el repositorio principal debes ir a la rama y hacer [PULL REQUEST](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+8. CONTRIBUTE.
+9. CREATE PULL REQUEST (cubre la plantilla que te aparecerá).
+10. Si el proceso de entrega se ha realizado de forma correcta, se añadirá tu corrección al repositorio. En caso contrario, se te notificarán los cambios a realizar o los motivos del rechazo.
 
 ## Más retos de programación
 
