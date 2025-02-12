@@ -22,11 +22,18 @@ Sigue las **[instrucciones](../../README.md)**, consulta las correcciones y apor
 
 ### Tutorial en vídeo
 
-<a href="https://youtu.be/gOWCCkUq2nc"><img src="http://i3.ytimg.com/vi/gOWCCkUq2nc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/gOWCCkUq2nc"><img src="http://i3.ytimg.com/vi/gOWCCkUq2nc/maxresdefault.jpg"/></a>
+
+*Explicación paso a paso del desarrollo del proyecto.*
 
 ### Información y código
 
-* [Código del proyecto](./)
+El proyecto se ha realizado utilizando Python, pero ten en cuenta que lo más importante en estos ejercicios es comprender la lógica detrás de la plataforma, en este caso, Stripe. Puedes usar prácticamente cualquier lenguaje de programación actual para implementar la pasarela (en la documentación hay ejemplos de todos).
+
+* [Código del proyecto](./): Instala las dependencias y añade tu clave de Stripe como variable de entorno antes de ejecutar el fichero stripe_payments_gateway.py
+	* Implementación: [stripe_payments_gateway.py](./stripe_payments_gateway.py)
+	* Variables de entorno: [.env](./.env)
+	* Dependencias: [requirements.txt](./requirements.txt)
 * [Web se Stripe](https://stripe.com/es)
 * [Documentación de Stripe](https://docs.stripe.com/get-started/development-environment)
 * [Testing Stripe](https://docs.stripe.com/testing)
