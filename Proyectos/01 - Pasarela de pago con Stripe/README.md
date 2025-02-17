@@ -46,5 +46,5 @@ Correcciones aportadas por la comunidad. Agrupadas según el lenguaje de program
 
 > Participa haciendo "fork" al repositorio principal y enviado una "pull request" añadiendo tu nombre de usuario y la url del repositorio de tu corrección (crea la categoría del lenguaje de programación si aún no existe).
 
-### Nombre lenguaje principal
-* Nombre usuario GitHub: [url_repositorio](url_repositorio)
+### python
+* Joelsitovs: [url_repositorio](https://github.com/Joelsitovs/stripe_payment.git)
