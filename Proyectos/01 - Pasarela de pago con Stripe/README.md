@@ -47,4 +47,4 @@ Correcciones aportadas por la comunidad. Agrupadas según el lenguaje de program
 > Participa haciendo "fork" al repositorio principal y enviado una "pull request" añadiendo tu nombre de usuario y la url del repositorio de tu corrección (crea la categoría del lenguaje de programación si aún no existe).
 
 ### Nombre lenguaje principal
-* luismdp05: [proyecto](https://github.com/luismdp05/payment-gateway-stripe)
+* luismdp05: [Link del Proyecto](https://github.com/luismdp05/payment-gateway-stripe)
