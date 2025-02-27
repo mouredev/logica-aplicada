@@ -48,3 +48,6 @@ Correcciones aportadas por la comunidad. Agrupadas según el lenguaje de program
 
 ### Nombre lenguaje principal
 * Nombre usuario GitHub: [url_repositorio](url_repositorio)
+
+### Go 
+* blackriper: [stripe-store](https://github.com/blackriper/logica-aplicada-blackriper/tree/main/stripe-payment)
