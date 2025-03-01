@@ -11,7 +11,7 @@ require '../../vendor/autoload.php';
 $dotenv = Dotenv::createImmutable(__DIR__);
 $dotenv->load();
 
-$apiKey = $_ENV['STRIPE_SECRET_KEY'];
+
 $stripe = new StripeClient($apiKey);
 
 if (!$apiKey) {
