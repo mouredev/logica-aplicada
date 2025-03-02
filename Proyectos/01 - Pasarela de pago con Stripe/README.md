@@ -39,12 +39,12 @@ El proyecto se ha realizado utilizando Python, pero ten en cuenta que lo más im
 * [Testing Stripe](https://docs.stripe.com/testing)
 * Stripe elements: [[Web](https://docs.stripe.com/payments/elements)]/[[App](https://docs.stripe.com/payments/mobile)]
 
-
 ## Proyectos de la comunidad
 
 Correcciones aportadas por la comunidad. Agrupadas según el lenguaje de programación utilizado.
 
 > Participa haciendo "fork" al repositorio principal y enviado una "pull request" añadiendo tu nombre de usuario y la url del repositorio de tu corrección (crea la categoría del lenguaje de programación si aún no existe).
 
-### Nombre lenguaje principal
-* Nombre usuario GitHub: [url_repositorio](url_repositorio)
+### Lenguaje: PHP
+
+* GitHub: [cristianfloyd](https://github.com/cristianfloyd/logica-aplicada)
