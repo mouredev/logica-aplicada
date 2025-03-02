@@ -5,7 +5,7 @@ use Stripe\Stripe;
 use Stripe\StripeClient;
 use Stripe\PaymentMethod;
 
-require '../../vendor/autoload.php';
+require '../../../vendor/autoload.php';
 
 # Configuracion de entorno
 $dotenv = Dotenv::createImmutable(__DIR__);
