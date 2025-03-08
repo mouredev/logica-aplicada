@@ -48,3 +48,8 @@ Correcciones aportadas por la comunidad. Agrupadas según el lenguaje de program
 
 ### Nombre lenguaje principal
 * Nombre usuario GitHub: [url_repositorio](url_repositorio)
+
+
+### Typescript
+* duendeintemporal: https://github.com/duendeintemporal/pasarela-de-pago-con-stripe.git
+
